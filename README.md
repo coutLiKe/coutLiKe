@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 👋 Hi, I'm Kevin!
 👩🏻‍💻 Software Engineer sharing about my journey and learnings in tech.<br/><be>
 👩🏻‍🎓 Studying [Computer Science](https://www.linkedin.com/in/kevin-lin-a4ba712b0/) at CUNY Queens College.<br/><be>
 🎨 Further developing my learnings and career in the tech industry.<br/> <be>
