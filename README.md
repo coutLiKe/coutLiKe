@@ -1,8 +1,8 @@
 # 👋 Hi, I'm Kevin!
 👩🏻‍💻 Sharing about my journey and learnings in tech.<br/><be>
 👩🏻‍🎓 Graduated with my bachalors in [Computer Science](https://www.linkedin.com/in/kevin-lin-a4ba712b0/) at CUNY Queens College.<br/><be>
-🎨 Further developing my learning and career in the tech industry.<br/> <be>
-💭 Currently finishing up my bachelor's and looking into internships for Summer 2024; as well as, learning Java + JavaScript.<br/>
+🎨 Further developing my learning and career in the tech industry with NPower's Networking and Administrator program. That works towards completing my Certificates CompTIA Network+ and Linux+.<br/> <be>
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/coutLiKe) 
