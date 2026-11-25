@@ -1,31 +1,27 @@
-# 👋 Hi, I'm Kevin!
-👩🏻‍💻 Sharing about my journey and learnings in tech.<br/><be>
-👩🏻‍🎓 Graduated with my bachalors in [Computer Science](https://www.linkedin.com/in/kevin-lin-a4ba712b0/) at CUNY Queens College.<br/><be>
-🎨 Further developing my learning and career in the tech industry with NPower's Networking and Administrator program. That works towards completing my Certificates CompTIA Network+ and Linux+.<br/> <be>
+# Hi, I'm Kevin Lin
 
+Software engineer in New York. I build full-stack apps and the tools that keep systems running.
 
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/coutLiKe) 
+- **Now:** Technology Trainee (Software Engineer) at Trinity Solar, working on onePAY, an internal sales commission engine (C#, ASP.NET Core, Angular, Azure SQL)
+- **Before:** AI Trainer at Handshake (reference fixes and test suites for open-source repos) · IT Specialist Intern at NYC DSS, where I helped restore 2,500+ workstations during the July 2024 CrowdStrike outage
+- **Education:** B.A. Computer Science, CUNY Queens College · CompTIA A+, Network+, Linux+
 
-## 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=flat-square&logo=c%2B%2B&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=flat-square&logo=openjdk&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat-square&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=flat-square&logo=python&logoColor=ffdd54) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat-square&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat-square&logo=tailwind-css&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat-square&logo=github&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=flat-square&logo=notion&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=flat-square&logo=firefox&logoColor=#FF7139)
-## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=coutLiKe&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=coutLiKe&theme=graywhite&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=coutLiKe&theme=graywhite&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+## Projects
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=coutLiKe&theme=chalk&no-frame=false&no-bg=true&margin-w=4)
+| Project | What it is | Stack |
+|---|---|---|
+| [TicketDesk](https://github.com/coutLiKe/ticketdesk) · [live](https://coutlike.github.io/ticketdesk/) | IT help desk and asset tracker with role-based access. 322 backend tests, 97% coverage, CI on real PostgreSQL. | FastAPI, PostgreSQL, React, Docker |
+| [Endpoint Triage](https://github.com/coutLiKe/endpoint-triage) | One-command diagnostics CLI that pinpoints network faults on Windows, macOS, and Linux. Standard library only, 202 tests across 3 OSes. | Python |
+| [Meowjong](https://github.com/coutLiKe/meowjong) · [play](https://coutlike.github.io/meowjong/) | 3D browser mahjong with AI opponents, a built-in tutorial, and peer-to-peer online party mode. | JavaScript, Three.js, PeerJS |
+| [DayGuard](https://github.com/coutLiKe/dayguard) | macOS menu-bar security dashboard: security settings, LAN devices, SSL expiry, CVE alerts, and a local-LLM morning summary. | Python, FastAPI, Ollama |
 
-## 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=coutLiKe&limit=5&theme=dark&combine_all_yearly_contributions=true)
+## Stack
 
-## ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
+**Languages:** C#, Python, TypeScript, JavaScript, SQL, Bash, C++
+**Frameworks:** ASP.NET Core, Angular, React, Next.js, FastAPI
+**Data & DevOps:** Azure SQL, PostgreSQL, Docker, GitHub Actions, Azure DevOps
+**Systems:** Windows, macOS, Linux, Entra ID (Azure AD), networking (TCP/IP, DNS, VPN)
 
-## 😂 Random Dev Meme
-<img src='https://memer-new.vercel.app/' style="height: 400px;"/>
+## Contact
 
----
-[![](https://visitcount.itsvg.in/api?id=coutLiKe&icon=2&color=12)](https://visitcount.itsvg.in)
-
+[Portfolio](https://coutlike.github.io) · [LinkedIn](https://linkedin.com/in/coutlike)
