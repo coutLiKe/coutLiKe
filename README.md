@@ -17,10 +17,10 @@ Software engineer in New York. I build full-stack apps and the tools that keep s
 
 ## Stack
 
-**Languages:** C#, Python, TypeScript, JavaScript, SQL, Bash, C++
-**Frameworks:** ASP.NET Core, Angular, React, Next.js, FastAPI
-**Data & DevOps:** Azure SQL, PostgreSQL, Docker, GitHub Actions, Azure DevOps
-**Systems:** Windows, macOS, Linux, Entra ID (Azure AD), networking (TCP/IP, DNS, VPN)
+- **Languages:** C#, Python, TypeScript, JavaScript, SQL, Bash, C++
+- **Frameworks:** ASP.NET Core, Angular, React, Next.js, FastAPI
+- **Data & DevOps:** Azure SQL, PostgreSQL, Docker, GitHub Actions, Azure DevOps
+- **Systems:** Windows, macOS, Linux, Entra ID (Azure AD), networking (TCP/IP, DNS, VPN)
 
 ## Contact
 
